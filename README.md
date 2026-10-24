@@ -31,3 +31,7 @@ Current Status
 
 I'm still working on this project. The next step is to complete the analysis, check the results, and finish the dashboard in Looker Studio.
 
+Dashboard
+View the interactive dashboard here:
+
+https://datastudio.google.com/s/qqUx8_Vk_k4
