@@ -35,3 +35,7 @@ Dashboard
 View the interactive dashboard here:
 
 https://datastudio.google.com/s/qqUx8_Vk_k4
+
+
+![Olist Delivery Performance Dashboard](dashboard preview.jpeg)
+
